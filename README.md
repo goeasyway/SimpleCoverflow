@@ -10,3 +10,5 @@
 >1. 实现自定义的圆角带阴影的View
 2. 实现GroupView+Adapter完成布局
 3. 实现滑动
+
+原面试题[传送门](http://www.jianshu.com/p/96b9f38319c1)

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3ee0ecc720cbed76dcc5cc743bfc281f59a1ef8b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_e89509aaef7e20af420e85134072eeb95d3cfd77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3a1aee4090a8d6525f65584c76ca4f0af32ea3e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c474ac6e9b244229fda1666446d306b766dea6b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="20a1681f47f43205f50553916f6e8e4a2b8c3af6">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c0a4e238420d4413b10b89c126be2f2f09450ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_4934946c524b03f3aa6d7623c7bfcc899d97a58f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0f79c3f7f785dc4ee1209d8a9c55acece897ace0">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2765091a381c2ad88d68a590ccf8be83755459f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/lan/Downloads/projects/SimpleCoverflow/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f377d31a147498e1c44235dc0140edeeb081c03d/classes.dex" />
+    </item>
+
+</items>
